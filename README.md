@@ -1,17 +1,15 @@
-## Hi there 👋
 # Hi there 👋, I'm Amir  
 
-💻 Python & JavaScript Developer | ⚛️ React Enthusiast | 🗄️ PostgreSQL Explorer  
+💻 Python & JavaScript Developer | ⚛️ React Enthusiast | 🗄️ PostgreSQL Explorer | 🐧 Linux Certified  
 
 ---
 
 ## 🚀 About Me
 - 🔭 Currently building **full-stack projects**
 - 🌱 Learning **advanced React patterns & backend optimization**
-- 🛠️ Skilled with **Python, JS, React, SQL/PostgreSQL, Git**
+- 🐧 Certified **LPIC-1**, preparing for **LPIC-2**
+- 🛠️ Skilled with **Python, JS, React, SQL/PostgreSQL, Git, Linux**
 - 🎮 Fun fact: I love games & coding challenges!
-- 🔭 I’m currently working on a great project with my cool friends
-- 🌱 I’m currently learning more Js to make myself a better javascript programmer
 
 ---
 
@@ -21,21 +19,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 
-<!--
-**ZEROU14/ZEROU14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+[![LinkedIn]()](https://www.linkedin.com/in/amir-noralahi-004a85381/)
