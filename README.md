@@ -24,12 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=herogame803&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herogame803&layout=compact&theme=radical)  
-
----
-
 
 <!--
 **ZEROU14/ZEROU14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
